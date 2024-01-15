@@ -1,0 +1,22 @@
+current directory: /Users/donshin/Rails/active-storage-api/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.17.1/ext/bootsnap
+/Users/donshin/.rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/donshin/Rails/active-storage-api/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.17.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240113-34511-wtkc8i sitelibdir\=./.gem.20240113-34511-wtkc8i clean
+
+current directory: /Users/donshin/Rails/active-storage-api/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.17.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240113-34511-wtkc8i sitelibdir\=./.gem.20240113-34511-wtkc8i
+compiling bootsnap.c
+bootsnap.c:822:10: warning: unused variable 'contents' [-Wunused-variable]
+  char * contents = NULL;
+         ^
+1 warning generated.
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/donshin/Rails/active-storage-api/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.17.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240113-34511-wtkc8i sitelibdir\=./.gem.20240113-34511-wtkc8i install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20240113-34511-wtkc8i/bootsnap
+
+current directory: /Users/donshin/Rails/active-storage-api/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.17.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240113-34511-wtkc8i sitelibdir\=./.gem.20240113-34511-wtkc8i clean
